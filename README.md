@@ -63,3 +63,6 @@ Lower variance indicates smoother and more stable motion.
 - Missed detection rate
 - Smoothness of angle curves
 - Visual quality of skeleton overlay
+Note:
+The skeleton overlay output video was generated locally but is not uploaded to GitHub due to file size constraints. It can be shared if required.
+
